@@ -1,0 +1,15 @@
+# Compiled files
+udpchat
+*.o
+
+# Archives  
+*.tar
+*.tar.gz
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+
+# System files
+.DS_Store
