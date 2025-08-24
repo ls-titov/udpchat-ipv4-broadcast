@@ -8,4 +8,4 @@ A multi-threaded UDP chat application with IPv4 broadcast support.
 - Real-time messaging across network
 
 ## Build
-make && ./udpchat <ip> <port>
+make && ./udpchat xxx.xxx.xxx.xxx 12345
